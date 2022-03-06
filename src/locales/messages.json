@@ -1,0 +1,19 @@
+{
+    "messages": {
+        "sample_getAll_200": {
+            "en": "Users",
+            "ru": "",
+            "uz": ""
+        }, 
+        "user_getAll_200": {
+            "en": "All Users",
+            "ru": "",
+            "uz": ""
+        },
+        "user_create_200": {
+            "en": "A new user created!",
+            "ru": "",
+            "uz": ""
+        }
+    }
+}
